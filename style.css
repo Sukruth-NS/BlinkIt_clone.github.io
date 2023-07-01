@@ -171,11 +171,10 @@
     flex-wrap: wrap;
     align-items: center;
     margin-inline: auto;
-    width: 85vw;
     overflow-x: auto;
   }
 
-  .card {
+.card {
     display: inline-block;
     margin: 10px;
-  }
+}
